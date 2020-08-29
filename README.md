@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+# Template:
+[![wx6698](https://circleci.com/gh/wx6698/project4.svg?style=svg)](https://app.circleci.com/pipelines/github/wx6698)
 
 ## Project Overview
 
